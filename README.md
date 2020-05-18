@@ -1,14 +1,14 @@
 # Patient-Information-System
-Patient iInformation iSystem ihas ibeen ideveloped ito ikeep itrack iof ipatients ivisiting
-iany ihospitals ior iclinics ifor icheckups, ithrough ithis isystem ione ican iaccess ithe
-iprevious ivisit ihistories iof ithe ipatients iby iproviding ithe iid inumber iif iknown.
-iThis isystem iinvolves ionly ithree ipeople’s ipatient, ithe idoctor iand ithe ireceptionist.
-iIt ihelps ito iknow ithe idetails iof ithe ipreviously ivisited idoctors iand ithe istatus iof
-ithe ipatients iwho ihave iundergone itreatments iunder ithis idoctors. iHere ithe imost
-iimportant imember iis ireceptionist. iHe/She iis ithe iadmin iof ithe isystem iand ican
-iadd ior idelete ithe idata’s ineeded iwhile iregistering ia ipatient. iNowadays, ievery
-ihospitals iand iclinics ineed ithis isoftware ito ikeep irecords. iWhile ientering idata’s iit
-ishows ierror imessage iif iit iwas ian iinvalid ientry. iThis isystem iis ivery isimple iand
-ieasy ito iuse ifor ithe iusers iif ihe/she idoesn’t ihave iany iformal iknowledge iabout ithe
-isoftware. iIt icontains ithe ifollowing itabs iInsert, iUpdate, iSearch, iDelete, iDisplay
-iand iExit.
+Patient Information System has been developed to keep track of patients visiting
+any hospitals or clinics for checkups, through this system one can access the
+previous visit histories of the patients by providing the id number if known.
+This system involves only three people’s patient, the doctor and the receptionist.
+It helps to know the details of the previously visited doctors and the status of
+the patients who have undergone treatments under this doctors.Here the most
+important member is receptionist. He/She is the admin of the system and can
+add or delete the data’s needed while registering a patient. Nowadays, every
+hospitals and clinics need this software to keep records. While entering data’s it
+shows error message if it was an invalid entry. This system is very simple and
+easy to use for the users if he/she doesn’t have any formal knowledge about the
+software. It contains the following tabs Insert,Update,Search,Delete,Display
+and Exit.
